@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "revision": 8,
-  "generated_at": "2026-11-21T16:18:32+00:00",
+  "revision": 10,
+  "generated_at": "2026-11-21T16:38:25+00:00",
   "authority": "display_only_not_security_grant",
-  "world_notice": "Hello",
+  "world_notice": "LOVE Arab 4 Ever",
   "vip_ui_enabled": false,
   "trusted_ui_enabled": false,
   "moderation_mode": "review_only"

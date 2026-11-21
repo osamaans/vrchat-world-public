@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "revision": 5,
-  "generated_at": "2026-11-21T15:53:22+00:00",
+  "revision": 6,
+  "generated_at": "2026-11-21T15:55:25+00:00",
   "authority": "display_only_not_security_grant",
-  "world_notice": "",
+  "world_notice": "Welcome to VRChat World Manager",
   "vip_ui_enabled": false,
   "trusted_ui_enabled": false,
   "moderation_mode": "review_only"
